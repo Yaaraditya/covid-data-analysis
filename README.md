@@ -24,9 +24,6 @@ Key Insights
 - Strong correlation between confirmed cases and deaths
 - India shows steady growth pattern
 
-Visualizations
-(Add screenshots here)
-
 Dataset
 Include dataset or link
 
